@@ -1,0 +1,3 @@
+2025-09-23 14:20:57,708 - INFO - [INFO] Arquivo 'data.xlsx' não encontrado, nada a remover.
+2025-09-23 14:20:57,710 - INFO - [INFO] A usar perfil de sessão existente para iniciar o navegador...
+2025-09-23 14:21:01,769 - INFO - [INFO] Navegando para: https://app.powerbi.com/groups/me/reports/f5f01274-2da5-4665-aa49-275a12363915/ReportSection97b8ebdafba6af1b7931?ctid=5f9d74c8-ec92-4488-a2c7-bdce634262fa&experience=power-bi

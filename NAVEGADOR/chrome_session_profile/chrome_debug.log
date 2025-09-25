@@ -1,0 +1,28 @@
+[28524:11840:0923/142100.519:ERROR:login_database.cc(810)] Password store database is too new, kCurrentVersionNumber=33, GetCompatibleVersionNumber=40
+[28524:11840:0923/142100.521:ERROR:login_database_async_helper.cc(54)] Could not create/open login database.
+[28524:17716:0923/142100.534:ERROR:login_database.cc(810)] Password store database is too new, kCurrentVersionNumber=33, GetCompatibleVersionNumber=40
+[28524:17716:0923/142100.536:ERROR:login_database_async_helper.cc(54)] Could not create/open login database.
+[28524:27420:0923/142104.167:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://login.microsoftonline.com/5f9d74c8-ec92-4488-a2c7-bdce634262fa/oauth2/v2.0/authorize?client_id=871c010f-5e61-4fb1-83ac-98610a7e9110&scope=https%3A%2F%2Fanalysis.windows.net%2Fpowerbi%2Fapi%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp.powerbi.com%2Fsignin&client-request-id=01997797-d244-7cfe-b1aa-f7528676e138&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.28.0&client_info=1&code_challenge=_WfhrXSMmdH5pbSqJ9Wi7gFN1RpDaO8a0LtcVyQV5no&code_challenge_method=S256&nonce=01997797-d246-709a-ac9e-50ae04a1e9d8&state=eyJpZCI6IjAxOTk3Nzk3LWQyNDUtNzA3Zi05MTRlLWZlZDJiMjUyMWNkOSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C1758648062531.2%3B1758648062532.7%3B1758648061787.4&site_id=500453&nux=1 (0)
+[28524:27420:0923/142106.294:ERROR:device_event_log_impl.cc(214)] [14:21:06.294] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[28524:26884:0923/142200.676:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[28524:27420:0923/142600.298:WARNING:force_installed_metrics.cc(480)] Failed to install 1 forced extensions.
+[28524:27420:0923/142600.298:WARNING:force_installed_metrics.cc(517)] Forced extension dehobbhellcfbmcaeppgfjhnldeimdph failed to install with data=failure_reason: 24; install_stage: 2; downloading_stage: 9
+[28524:2108:0923/152204.194:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[28524:27420:0923/155819.146:ERROR:device_event_log_impl.cc(214)] [15:58:19.145] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[28524:27748:0923/160110.086:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:27748:0923/163618.425:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:22920:0923/163623.434:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:27748:0923/163648.471:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:26884:0923/192200.832:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[28524:26884:0924/002200.951:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[28524:26884:0924/052201.067:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+[28524:24592:0924/081242.485:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:24592:0924/081322.564:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:26312:0924/081327.576:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:24592:0924/081332.585:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:26312:0924/081357.623:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:24592:0924/081432.660:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:26312:0924/081437.663:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:24592:0924/081442.671:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:26312:0924/081447.679:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[28524:24592:0924/081452.679:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
